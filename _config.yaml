@@ -1,1 +1,8 @@
 layout: default
+
+freeradius.version.major: 2.1
+freeradius.version: 2.1.10
+freeradius1.version.major: 1.1
+freeradius1.version: 1.1.8
+freeradius.client.version: 1.1.6
+freeradius.wiki: http://wiki.freeradius.org
